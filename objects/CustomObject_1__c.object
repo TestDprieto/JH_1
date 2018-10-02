@@ -42,6 +42,16 @@
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Compact_Layout1</fullName>
+        <fields>CreatedById</fields>
+        <fields>LastModifiedById</fields>
+        <fields>Name</fields>
+        <fields>OwnerId</fields>
+        <fields>picklist_1__c</fields>
+        <fields>RecordTypeId</fields>
+        <label>Compact Layout1</label>
+    </compactLayouts>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
