@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata"
+      xmlns:n1="http://www.w3.org/2001/XMLSchema-instance">
     <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
@@ -49,10 +50,10 @@
         <fields>CreatedById</fields>
         <fields>LastModifiedById</fields>
         <fields>OwnerId</fields>
-        <fields>RecordTypeId</fields>
         <label>CO3_CompactLayout1</label>
     </compactLayouts>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description n1:nil="true" />
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableChangeDataCapture>false</enableChangeDataCapture>
@@ -111,7 +112,7 @@
             <picklist>CO3_picklist__c</picklist>
             <values>
                 <fullName>CO3_picklist1</fullName>
-                <default>false</default>
+                <default>true</default>
             </values>
             <values>
                 <fullName>CO3_picklist2</fullName>
