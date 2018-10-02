@@ -8,26 +8,6 @@
         <plural>true</plural>
         <value>CustomObjects_1</value>
     </caseValues>
-    <fields>
-        <label></label>
-        <name>picklist_1__c</name>
-        <picklistValues>
-            <masterLabel>1</masterLabel>
-            <translation></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>2</masterLabel>
-            <translation></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>3</masterLabel>
-            <translation></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>4</masterLabel>
-            <translation></translation>
-        </picklistValues>
-    </fields>
     <gender>Masculine</gender>
     <recordTypes>
         <label></label>
