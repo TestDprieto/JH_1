@@ -8,33 +8,13 @@
         <plural>true</plural>
         <value>COs_3</value>
     </caseValues>
-    <fields>
-        <label><!-- CO3_picklist --></label>
-        <name>CO3_picklist__c</name>
-        <picklistValues>
-            <masterLabel>CO3_picklist1</masterLabel>
-            <translation><!-- CO3_picklist1 --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>CO3_picklist2</masterLabel>
-            <translation><!-- CO3_picklist2 --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>CO3_picklist3</masterLabel>
-            <translation><!-- CO3_picklist3 --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>CO3_picklist4</masterLabel>
-            <translation><!-- CO3_picklist4 --></translation>
-        </picklistValues>
-    </fields>
     <gender>Masculine</gender>
     <recordTypes>
-        <label><!-- CO3_RT1 --></label>
+        <label></label>
         <name>CO3_RT1</name>
     </recordTypes>
     <recordTypes>
-        <label><!-- CO3_RT2 --></label>
+        <label></label>
         <name>CO3_RT2</name>
     </recordTypes>
 </CustomObjectTranslation>
