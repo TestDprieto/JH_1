@@ -63,40 +63,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>CO3_picklist__c</fullName>
-        <externalId>false</externalId>
-        <label>CO3_picklist</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>CO3_picklist1</fullName>
-                    <default>false</default>
-                    <label>CO3_picklist1</label>
-                </value>
-                <value>
-                    <fullName>CO3_picklist2</fullName>
-                    <default>false</default>
-                    <label>CO3_picklist2</label>
-                </value>
-                <value>
-                    <fullName>CO3_picklist3</fullName>
-                    <default>false</default>
-                    <label>CO3_picklist3</label>
-                </value>
-                <value>
-                    <fullName>CO3_picklist4</fullName>
-                    <default>false</default>
-                    <label>CO3_picklist4</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
     <gender>Masculine</gender>
     <label>CO_3</label>
     <nameField>
