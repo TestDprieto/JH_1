@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <interviewLabel>HelloWorld {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>HelloWorld</label>
+    <processType>Flow</processType>
+    <screens>
+        <name>Screen_1</name>
+        <label>Screen_1</label>
+        <locationX>541</locationX>
+        <locationY>89</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>text</name>
+            <fieldText>Hello, World!</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <startElementReference>Screen_1</startElementReference>
+</Flow>
